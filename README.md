@@ -54,4 +54,4 @@ Proyek ini telah selesai dan tidak lagi sedang dikerjakan.
 Proyek ini terinspirasi oleh program [Nanodegree Insinyur Mobil Self-Driving Udacity](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
 
 ## Kontak
-Dibuat oleh [@flynerdpl](https://www.flynerd.pl/) - jangan ragu untuk menghubungi saya!
+Dibuat oleh fadhilah yahya sihailatua (2312561)
